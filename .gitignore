@@ -1,0 +1,21 @@
+# Зависимости
+node_modules/
+venv/
+__pycache__/
+
+# Секреты и ключи
+.env
+.env.local
+*.key
+*.pem
+credentials.json
+
+# Сборки и отчёты
+dist/
+build/
+*.log
+.horusec/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
